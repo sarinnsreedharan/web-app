@@ -9,4 +9,8 @@ body{
 }
 p{
     color: aliceblue;
+    margin-top: 3px;
+    margin-bottom: 0%;
+    margin-left: initial;
+    margin-right: 0cm;
 }
